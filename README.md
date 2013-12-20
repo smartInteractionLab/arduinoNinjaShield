@@ -9,7 +9,7 @@ The actual RF omponents on the shield come from Seeed Studio,
 look for their "433Mhz RF link kit" or "433Mhz RF link kit", 
 depending on at which frequency you want to use, at
 
-http://www.seedstudio.com
+http://www.seeedstudio.com
 
 The shield might be compatible with other similar modules, 
 however this has not been tested and should only be done at
